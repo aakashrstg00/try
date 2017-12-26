@@ -1,0 +1,26 @@
+.container-2 {
+    background-color: #3a4444;
+    padding: 2rem;
+}
+
+.sbox {
+    width: 25%;
+    border: 2px solid lightgray;
+    padding: 1rem 3rem;
+    text-align: center;
+    background-color: #e0e0d1;
+}
+
+.sbox h2 {
+    color: #2db475;
+    margin-bottom: 0.6rem;
+    border-bottom: 1px solid lightgray;
+}
+
+.left {
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
